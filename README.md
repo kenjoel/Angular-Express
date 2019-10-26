@@ -1,2 +1,2 @@
 # Angular-Express
-#its a basic ap but fully functional
+#its a basic app but fully functional
